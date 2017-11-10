@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="474px" height="199px" viewBox="0 0 474 199" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4" fill="#FFFFFF">
+            <g id="noun_591125_cc-copy-2" transform="translate(180.000000, 50.000000)" fill-rule="nonzero">
+                <g id="Group">
+                    <g id="Shape">
+                        <path d="M8.30769231,54 C8.30769231,47.1669231 9.85707692,40.7035385 12.5570769,34.8715385 L5.33769231,30.7093846 C1.95646154,37.7667692 0,45.6424615 0,54 C0,62.3575385 1.95646154,70.2332308 5.34184615,77.2989231 L12.5570769,73.1284615 C9.85707692,67.3047692 8.30769231,60.8413846 8.30769231,54 Z"></path>
+                        <path d="M99.6923077,54 C99.6923077,60.8413846 98.1429231,67.3047692 95.4429231,73.1284615 L102.658154,77.2989231 C106.043538,70.2332308 108,62.3533846 108,54 C108,45.6466154 106.043538,37.7667692 102.662308,30.7093846 L95.4429231,34.8715385 C98.1429231,40.7035385 99.6923077,47.1669231 99.6923077,54 Z"></path>
+                        <path d="M49.8461538,8.51953846 L49.8461538,0.211846154 C33.0812308,1.49538462 18.4555385,10.3846154 9.45830769,23.4858462 L16.7109231,27.6812308 C24.2418462,17.0432308 36.1758462,9.76153846 49.8461538,8.51953846 Z"></path>
+                        <path d="M16.7150769,80.3270769 L9.45830769,84.5141538 C18.4555385,97.6153846 33.0812308,106.517077 49.8461538,107.788154 L49.8461538,99.4804615 C36.1758462,98.2384615 24.246,90.9567692 16.7150769,80.3270769 Z"></path>
+                        <path d="M91.2890769,27.6812308 L98.5416923,23.4941538 C89.5486154,10.3846154 74.9229231,1.49123077 58.1538462,0.211846154 L58.1538462,8.51953846 C71.8241538,9.76153846 83.7581538,17.0432308 91.2890769,27.6812308 Z"></path>
+                        <path d="M58.1538462,99.4804615 L58.1538462,107.788154 C74.9187692,106.512923 89.5444615,97.6153846 98.5416923,84.5141538 L91.2849231,80.3270769 C83.754,90.9567692 71.8241538,98.2384615 58.1538462,99.4804615 Z"></path>
+                    </g>
+                </g>
+            </g>
+            <text id="Liquidität" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal">
+                <tspan x="288.085449" y="45">Liquidität</tspan>
+            </text>
+            <text id="Anlagen" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal">
+                <tspan x="122.495117" y="45">Anlagen</tspan>
+            </text>
+            <text id="Versicherungen" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal">
+                <tspan x="24.2666016" y="109">Versicherungen</tspan>
+            </text>
+            <text id="Dokumente" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal">
+                <tspan x="288.083496" y="177">Dokumente</tspan>
+            </text>
+            <text id="Vorsorge" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal">
+                <tspan x="104.149902" y="177">Vorsorge</tspan>
+            </text>
+            <text id="Sachanlagen" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal">
+                <tspan x="334.431641" y="109">Sachanlagen</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
